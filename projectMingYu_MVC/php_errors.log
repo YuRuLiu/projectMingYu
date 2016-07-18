@@ -1,0 +1,177 @@
+[15-Jul-2016 07:56:56 UTC] PHP Warning:  require_once(actionSelect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:56:56 UTC] PHP Stack trace:
+[15-Jul-2016 07:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:56:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionSelect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:56:56 UTC] PHP Stack trace:
+[15-Jul-2016 07:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:57:17 UTC] PHP Warning:  require_once(actionSelect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:57:17 UTC] PHP Stack trace:
+[15-Jul-2016 07:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:57:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionSelect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:57:17 UTC] PHP Stack trace:
+[15-Jul-2016 07:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:57:24 UTC] PHP Warning:  require_once(actionSelect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:57:24 UTC] PHP Stack trace:
+[15-Jul-2016 07:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:57:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionSelect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:57:24 UTC] PHP Stack trace:
+[15-Jul-2016 07:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:58:58 UTC] PHP Warning:  require_once(actionSelect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:58:58 UTC] PHP Stack trace:
+[15-Jul-2016 07:58:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:58:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionSelect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 2
+[15-Jul-2016 07:58:58 UTC] PHP Stack trace:
+[15-Jul-2016 07:58:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:59:47 UTC] PHP Warning:  require_once(connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 3
+[15-Jul-2016 07:59:47 UTC] PHP Stack trace:
+[15-Jul-2016 07:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:59:47 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[15-Jul-2016 07:59:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 3
+[15-Jul-2016 07:59:47 UTC] PHP Stack trace:
+[15-Jul-2016 07:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 07:59:47 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[15-Jul-2016 08:00:17 UTC] PHP Warning:  require_once(connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 3
+[15-Jul-2016 08:00:17 UTC] PHP Stack trace:
+[15-Jul-2016 08:00:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 08:00:17 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[15-Jul-2016 08:00:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 3
+[15-Jul-2016 08:00:17 UTC] PHP Stack trace:
+[15-Jul-2016 08:00:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[15-Jul-2016 08:00:17 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[15-Jul-2016 08:26:00 UTC] PHP Warning:  require_once(actionDetail.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:26:00 UTC] PHP Stack trace:
+[15-Jul-2016 08:26:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[15-Jul-2016 08:26:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionDetail.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:26:00 UTC] PHP Stack trace:
+[15-Jul-2016 08:26:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[15-Jul-2016 08:39:01 UTC] PHP Warning:  require_once(actionDetail.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:39:01 UTC] PHP Stack trace:
+[15-Jul-2016 08:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[15-Jul-2016 08:39:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionDetail.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:39:01 UTC] PHP Stack trace:
+[15-Jul-2016 08:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[15-Jul-2016 08:45:37 UTC] PHP Warning:  require_once(actionDetail.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:45:37 UTC] PHP Stack trace:
+[15-Jul-2016 08:45:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[15-Jul-2016 08:45:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'actionDetail.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 2
+[15-Jul-2016 08:45:37 UTC] PHP Stack trace:
+[15-Jul-2016 08:45:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 01:41:20 UTC] PHP Fatal error:  Call to undefined function orderformLimit() in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 112
+[18-Jul-2016 01:41:20 UTC] PHP Stack trace:
+[18-Jul-2016 01:41:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:45:22 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 11
+[18-Jul-2016 01:45:22 UTC] PHP Stack trace:
+[18-Jul-2016 01:45:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:45:22 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[18-Jul-2016 01:52:25 UTC] PHP Fatal error:  Call to undefined function selectOrderform() in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 11
+[18-Jul-2016 01:52:25 UTC] PHP Stack trace:
+[18-Jul-2016 01:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:52:25 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[18-Jul-2016 01:53:11 UTC] PHP Warning:  Missing argument 1 for displayOrderform::orderformLimit(), called in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 112 and defined in /home/ubuntu/workspace/project/projectMingYu_MVC/models/displayOrderform.php on line 17
+[18-Jul-2016 01:53:11 UTC] PHP Stack trace:
+[18-Jul-2016 01:53:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:53:11 UTC] PHP   2. displayOrderform->orderformLimit() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:112
+[18-Jul-2016 01:53:11 UTC] PHP Warning:  Missing argument 2 for displayOrderform::orderformLimit(), called in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 112 and defined in /home/ubuntu/workspace/project/projectMingYu_MVC/models/displayOrderform.php on line 17
+[18-Jul-2016 01:53:11 UTC] PHP Stack trace:
+[18-Jul-2016 01:53:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:53:11 UTC] PHP   2. displayOrderform->orderformLimit() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:112
+[18-Jul-2016 01:59:53 UTC] PHP Fatal error:  Class 'displayOrderform' not found in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 9
+[18-Jul-2016 01:59:53 UTC] PHP Stack trace:
+[18-Jul-2016 01:59:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 01:59:53 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[18-Jul-2016 02:21:14 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 112
+[18-Jul-2016 02:21:14 UTC] PHP Stack trace:
+[18-Jul-2016 02:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 02:21:14 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:112
+[18-Jul-2016 02:31:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php on line 10
+[18-Jul-2016 02:31:22 UTC] PHP Stack trace:
+[18-Jul-2016 02:31:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 02:31:22 UTC] PHP   2. include() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:2
+[18-Jul-2016 02:31:22 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionSelect.php:10
+[18-Jul-2016 02:31:22 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 162
+[18-Jul-2016 02:31:22 UTC] PHP Stack trace:
+[18-Jul-2016 02:31:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 02:31:22 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:162
+[18-Jul-2016 03:15:55 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php on line 162
+[18-Jul-2016 03:15:55 UTC] PHP Stack trace:
+[18-Jul-2016 03:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:0
+[18-Jul-2016 03:15:55 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/selectOrderform.php:162
+[18-Jul-2016 05:57:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 25
+[18-Jul-2016 05:57:03 UTC] PHP Stack trace:
+[18-Jul-2016 05:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:57:03 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 05:57:03 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:25
+[18-Jul-2016 05:57:03 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 92
+[18-Jul-2016 05:57:03 UTC] PHP Stack trace:
+[18-Jul-2016 05:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:57:03 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:92
+[18-Jul-2016 05:58:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 05:58:29 UTC] PHP Stack trace:
+[18-Jul-2016 05:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:58:29 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 05:58:29 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 05:58:29 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 92
+[18-Jul-2016 05:58:29 UTC] PHP Stack trace:
+[18-Jul-2016 05:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:58:29 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:92
+[18-Jul-2016 05:58:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 05:58:37 UTC] PHP Stack trace:
+[18-Jul-2016 05:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:58:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 05:58:37 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 05:58:37 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 92
+[18-Jul-2016 05:58:37 UTC] PHP Stack trace:
+[18-Jul-2016 05:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 05:58:37 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:92
+[18-Jul-2016 06:00:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 06:00:26 UTC] PHP Stack trace:
+[18-Jul-2016 06:00:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:00:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 06:00:26 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 06:00:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 06:00:31 UTC] PHP Stack trace:
+[18-Jul-2016 06:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:00:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 06:00:31 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 06:00:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 06:00:34 UTC] PHP Stack trace:
+[18-Jul-2016 06:00:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:00:34 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 06:00:34 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 06:00:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php on line 23
+[18-Jul-2016 06:00:38 UTC] PHP Stack trace:
+[18-Jul-2016 06:00:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:00:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:2
+[18-Jul-2016 06:00:38 UTC] PHP   3. mysql_num_rows() /home/ubuntu/workspace/project/projectMingYu_MVC/controllers/actionDetail.php:23
+[18-Jul-2016 06:04:13 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:04:13 UTC] PHP Stack trace:
+[18-Jul-2016 06:04:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:04:13 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:04:58 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:04:58 UTC] PHP Stack trace:
+[18-Jul-2016 06:04:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:04:58 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:04:59 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:04:59 UTC] PHP Stack trace:
+[18-Jul-2016 06:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:04:59 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:06:35 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:06:35 UTC] PHP Stack trace:
+[18-Jul-2016 06:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:06:35 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:06:38 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:06:38 UTC] PHP Stack trace:
+[18-Jul-2016 06:06:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:06:38 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:09:50 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:09:50 UTC] PHP Stack trace:
+[18-Jul-2016 06:09:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:09:50 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:11:13 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:11:13 UTC] PHP Stack trace:
+[18-Jul-2016 06:11:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:11:13 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
+[18-Jul-2016 06:18:49 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php on line 136
+[18-Jul-2016 06:18:49 UTC] PHP Stack trace:
+[18-Jul-2016 06:18:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:0
+[18-Jul-2016 06:18:49 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/projectMingYu_MVC/views/detail.php:136
